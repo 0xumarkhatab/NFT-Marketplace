@@ -1,40 +1,38 @@
 # NFT-Marketplace
 
 This is a good Dapp that exhibits as next level dealing with eth blockchain
-
 ###  Concepts Involved
 
-  
-  NextJs
-      - Api Routing
-      - CSS Modules
-      - `Use` Hooks
-      - State management
-      - Conditional Rendering
-      - Async functions
-      - Timed Functions
-  
-  Ethers.js
-      - Provider
-      - Signer
-      - Utils
-      - call transactions
-      - 
-  
-  Solidity
-    - OpenZeppelin
-    - ERC721 Emuerable 
-    - Ownable
-    - Custom Smart contracts 
-    - Receiving Ether
-    - Mapping
-    - Payable Function
-    - Pure Function
-    - View Functions
-    - 
-    Web3Modal
-      - Metamask Connection
-      - Web3Modal Provider
+    - NextJs
+            Api Routing
+            CSS Modules
+            Use Hooks
+            State management
+            Conditional Rendering
+            Async functions
+            Timed Functions
+      
+    - Ethers.js
+            Provider
+            Signer
+            Utils
+            call transactions
+      
+    - Web3Modal
+            Metamask Connection
+            Web3Modal Provider
+
+    - Solidity    
+            OpenZeppelin
+            ERC721 Emuerable 
+            Ownable
+            Custom Smart contracts 
+            Receiving Ether
+            Mapping
+            Payable Function
+            Pure Function
+            View Functions
+
     
 
 It illustrates how you can build a part of your marketplace
